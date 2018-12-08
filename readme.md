@@ -97,3 +97,4 @@ ap 9.uninstall.yml
 https://172.16.11.244:6443/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy/#<br>
 admin<br>
 abc2018
+songlb
